@@ -1,7 +1,7 @@
-DGP 14/02
-APCD 14/02
-AEM marilo 24/02
-FESTAD 27/02
-ICSR 03/03
-AEM pino 06/03
-AEM pichardo 07/03
+DGP 14/02: Realizada
+APCD 14/02: Realizada
+AEM marilo 24/02: Entregada
+FESTAD 27/02: Entregada
+ICSR 03/03: No empezada
+AEM pino 06/03: No empezada
+AEM pichardo 07/03: No empezada
